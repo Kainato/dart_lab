@@ -54,7 +54,7 @@ void printLine(int index, int maxIndex) {
   // Gerando a letra correspondente ao índice
   final letter = String.fromCharCode(65 + index);
   // Calculando o espaço externo necessário para alinhar a letra à direita
-  final outerSpace = ' ' * (maxIndex - index);
+  final outerSpace = ' ' * ((2 * maxIndex - 1) - index);
 
   if (index == 0) {
     stdout.writeln('$outerSpace$letter');
