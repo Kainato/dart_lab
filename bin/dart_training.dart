@@ -1,5 +1,5 @@
-import 'package:dart_training/beecrowd/nivel_1/2756_saida_10.dart' as challenge;
+import 'package:dart_training/extra/dart_training.dart' as challenge;
 
 void main(List<String> arguments) {
-  challenge.main();
+  challenge.calculate();
 }
