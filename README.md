@@ -33,7 +33,7 @@ Exemplo:
 
 ```
 lib/beecrowd/level_1/1000/
-├── 1000.dart     # Solução
+├── 1000.dart     # Resolução
 └── 1000.md       # Descrição e explicação
 ```
 
