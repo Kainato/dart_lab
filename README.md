@@ -26,7 +26,7 @@ O projeto é estruturado como um aplicativo Dart em linha de comando padrão:
 
 Cada problema está organizado em sua própria pasta com:
 
-- **NNNN.dart**: Arquivo com a solução do problema
+- **NNNN.dart**: Arquivo com a resolução do problema
 - **NNNN.md**: Arquivo com a descrição completa do problema e explicação da solução
 
 Exemplo:
