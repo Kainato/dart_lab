@@ -27,7 +27,7 @@ O projeto é estruturado como um aplicativo Dart em linha de comando padrão:
 │           └── NNNN/
 │               ├── NNNN.dart    # Solução do problema
 │               └── NNNN.md      # Explicação do problema e solução
-|   └── extras/ # Resoluções de outras ideias
+|   └── extras/   # Resoluções de outras ideias
 └── test/         # Testes unitários para validar o funcionamento das soluções
 ```
 
