@@ -4,6 +4,14 @@ Coleção de resoluções de problemas de estudo de algoritmo desenvolvidas em *
 
 ![Linguagem](https://img.shields.io/badge/Linguagem-Dart-blue?logo=dart)
 
+## 📊 Estatísticas
+
+### 📁 Pasta Beecrowd
+
+| Problemas Resolvidos | Nível 1 | Nível 2 | Nível 3 | Nível 4 | Nível 5 | Nível 6 | Nível 7 | Nível 8 | Nível 9 |
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| 27 / 2443 | 17 🩵 | 6 🧡 | 1 💚 | 1 ❤️ | 2 🤎 | 0 💜 | 0 🩷 | 0 🖤 | 0 💙 |
+
 ---
 
 ## 📁 Estrutura do Projeto
@@ -19,22 +27,8 @@ O projeto é estruturado como um aplicativo Dart em linha de comando padrão:
 │           └── NNNN/
 │               ├── NNNN.dart    # Solução do problema
 │               └── NNNN.md      # Explicação do problema e solução
+|   └── extras/ # Resoluções de outras ideias
 └── test/         # Testes unitários para validar o funcionamento das soluções
-```
-
-### 📂 Estrutura Beecrowd
-
-Cada problema está organizado em sua própria pasta com:
-
-- **NNNN.dart**: Arquivo com a resolução do problema
-- **NNNN.md**: Arquivo com a descrição completa do problema e explicação da solução
-
-Exemplo:
-
-```
-lib/beecrowd/level_1/1000/
-├── 1000.dart     # Resolução
-└── 1000.md       # Descrição e explicação
 ```
 
 > **Nota:** Em caso de múltiplas soluções para o mesmo problema, arquivos adicionais podem ser criados (ex: `1000_v2.dart`, `1000_otimizado.dart`).
