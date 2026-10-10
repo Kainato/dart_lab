@@ -10,7 +10,7 @@ Coleção de resoluções de problemas de estudo de algoritmo desenvolvidas em *
 
 | Problemas Resolvidos | Nível 1 | Nível 2 | Nível 3 | Nível 4 | Nível 5 | Nível 6 | Nível 7 | Nível 8 | Nível 9 |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| 27 / 2443 | 17 🩵 | 6 🧡 | 1 💚 | 1 ❤️ | 2 🤎 | 0 💜 | 0 🩷 | 0 🖤 | 0 💙 |
+| 27 / 2443 | 18 🩵 | 6 🧡 | 1 💚 | 1 ❤️ | 2 🤎 | 0 💜 | 0 🩷 | 0 🖤 | 0 💙 |
 
 ---
 
