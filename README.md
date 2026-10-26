@@ -50,7 +50,7 @@ cd dart_lab
 3. Execute o arquivo desejado com o interpretador ou compilador da linguagem
 
 ```bash
-dart run dart_training.dart # Caminho do arquivo na pasta "bin"
+dart run dart_lab.dart # Caminho do arquivo na pasta "bin"
 ```
 
 ## 📌 Boas Práticas Adotadas
