@@ -10,7 +10,7 @@ Coleção de resoluções de problemas de estudo de algoritmo desenvolvidas em *
 
 | Problemas Resolvidos | Nível 1 | Nível 2 | Nível 3 | Nível 4 | Nível 5 | Nível 6 | Nível 7 | Nível 8 | Nível 9 |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| 30 / 2443 | 18 🩵 | 7 🧡 | 2 💚 | 1 ❤️ | 2 🤎 | 0 💜 | 0 🩷 | 0 🖤 | 0 💙 |
+| 31 / 2443 | 19 🩵 | 7 🧡 | 2 💚 | 1 ❤️ | 2 🤎 | 0 💜 | 0 🩷 | 0 🖤 | 0 💙 |
 
 ---
 
@@ -50,14 +50,13 @@ cd dart_lab
 3. Execute o arquivo desejado com o interpretador ou compilador da linguagem
 
 ```bash
-dart run dart_training.dart # Caminho do arquivo na pasta "bin"
+dart run dart_lab.dart # Caminho do arquivo na pasta "bin"
 ```
 
 ## 📌 Boas Práticas Adotadas
 
 - **Organização por Problema:** Cada problema tem sua própria pasta, facilitando a localização e manutenção.
 - **Documentação Integrada:** Cada solução inclui um arquivo `.md` com a descrição completa do problema.
-- **Nomeação Clara:** Problemas identificados por números de 4 dígitos (ex: `0001`, `1001`, `2345`).
 - **Código Limpo:** Soluções sem comentários de enunciado no código-fonte, mantendo apenas comentários explicativos do algoritmo.
 - **Busca por Eficiência:** Soluções focadas em menor complexidade de tempo O(N) e de memória.
 - **Estrutura Consistente:** Organização por nível de dificuldade (`level_1` a `level_5`).
