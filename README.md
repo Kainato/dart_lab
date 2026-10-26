@@ -57,7 +57,6 @@ dart run dart_lab.dart # Caminho do arquivo na pasta "bin"
 
 - **Organização por Problema:** Cada problema tem sua própria pasta, facilitando a localização e manutenção.
 - **Documentação Integrada:** Cada solução inclui um arquivo `.md` com a descrição completa do problema.
-- **Nomeação Clara:** Problemas identificados por números de 4 dígitos (ex: `0001`, `1001`, `2345`).
 - **Código Limpo:** Soluções sem comentários de enunciado no código-fonte, mantendo apenas comentários explicativos do algoritmo.
 - **Busca por Eficiência:** Soluções focadas em menor complexidade de tempo O(N) e de memória.
 - **Estrutura Consistente:** Organização por nível de dificuldade (`level_1` a `level_5`).
