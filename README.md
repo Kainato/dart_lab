@@ -35,19 +35,19 @@ O projeto é estruturado como um aplicativo Dart em linha de comando padrão:
 
 ## 🚀 Como Executar os Códigos
 
-1. Clone o repositório para a sua máquina:
+### 1. Clone o repositório para a sua máquina
 
 ```bash
 git clone https://github.com/seu-usuario/dart_lab.git
 ```
 
-2. Entre no seu repositório
+### 2. Entre no seu repositório
 
 ```bash
 cd dart_lab
 ```
 
-3. Execute o arquivo desejado com o interpretador ou compilador da linguagem
+### 3. Execute o arquivo desejado com o interpretador ou compilador da linguagem
 
 ```bash
 dart run dart_lab.dart # Caminho do arquivo na pasta "bin"
