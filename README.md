@@ -10,7 +10,7 @@ Coleção de resoluções de problemas de estudo de algoritmo desenvolvidas em *
 
 | Problemas Resolvidos | Nível 1 | Nível 2 | Nível 3 | Nível 4 | Nível 5 | Nível 6 | Nível 7 | Nível 8 | Nível 9 |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| 32 / 2443 | 20 🩵 | 7 🧡 | 2 💚 | 1 ❤️ | 2 🤎 | 0 💜 | 0 🩷 | 0 🖤 | 0 💙 |
+| 33 / 2443 | 20 🩵 | 7 🧡 | 2 💚 | 1 ❤️ | 3 🤎 | 0 💜 | 0 🩷 | 0 🖤 | 0 💙 |
 
 ---
 
@@ -35,19 +35,19 @@ O projeto é estruturado como um aplicativo Dart em linha de comando padrão:
 
 ## 🚀 Como Executar os Códigos
 
-1. Clone o repositório para a sua máquina:
+### 1. Clone o repositório para a sua máquina
 
 ```bash
 git clone https://github.com/seu-usuario/dart_lab.git
 ```
 
-2. Entre no seu repositório
+### 2. Entre no seu repositório
 
 ```bash
 cd dart_lab
 ```
 
-3. Execute o arquivo desejado com o interpretador ou compilador da linguagem
+### 3. Execute o arquivo desejado com o interpretador ou compilador da linguagem
 
 ```bash
 dart run dart_lab.dart # Caminho do arquivo na pasta "bin"
