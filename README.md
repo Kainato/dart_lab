@@ -9,8 +9,8 @@ Coleção de resoluções de problemas de estudo de algoritmo desenvolvidas em *
 ### 📁 Pasta Beecrowd
 
 | Problemas Resolvidos | Nível 1 | Nível 2 | Nível 3 | Nível 4 | Nível 5 | Nível 6 | Nível 7 | Nível 8 | Nível 9 |
-| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| 34 / 2443 | 20 🩵 | 7 🧡 | 2 💚 | 4 ❤️ | 3 🤎 | 0 💜 | 0 🩷 | 0 🖤 | 0 💙 |
+| -------------------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| 34 / 2443            | 20 🩵   | 7 🧡    | 2 💚    | 4 ❤️    | 3 🤎    | 0 💜    | 0 🩷    | 0 🖤    | 0 💙    |
 
 ---
 
@@ -20,15 +20,22 @@ O projeto é estruturado como um aplicativo Dart em linha de comando padrão:
 
 ```text
 .
-├── bin/          # Pontos de entrada executáveis das soluções
-├── lib/          # Resoluções de questões agrupadas por sites
-│   └── beecrowd/ # Resoluções de problemas do Beecrowd
-│       └── level_n/
-│           └── NNNN/
-│               ├── NNNN.dart    # Solução do problema
-│               └── NNNN.md      # Explicação do problema e solução
-|   └── extras/   # Resoluções de outras ideias
-└── test/         # Testes unitários para validar o funcionamento das soluções
+├── bin/                        # Pontos de entrada executáveis das soluções
+├── lib/                        # Resoluções de questões agrupadas por sites
+│   ├── beecrowd/               # Soluções do Beecrowd
+│   │   └── level_n/
+│   │       └── NNNN/
+│   │           ├── NNNN.dart   # Solução do problema
+│   │           └── NNNN.md     # Explicação do problema e solução
+│   └── extra/                  # Soluções extras e experimentos
+├── test/                       # Testes unitários do projeto
+│   ├── beecrowd_test/          # Testes do Beecrowd
+│   │   └── level_n/
+│   │       └── NNNN/
+│   │           ├── NNNN_test.dart    # Teste automatizado da solução
+│   │           └── NNNN_test.md      # Explicação do teste e seu objetivo
+│   └── dart_training_test.dart       # Teste geral do projeto
+└── README.md                         # Visão geral do repositório
 ```
 
 > **Nota:** Em caso de múltiplas soluções para o mesmo problema, arquivos adicionais podem ser criados (ex: `1000_v2.dart`, `1000_otimizado.dart`).
