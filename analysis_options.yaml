@@ -16,6 +16,14 @@ include: package:lints/recommended.yaml
 analyzer:
   errors:
     file_names: ignore
+  exclude:
+    - build/**
+    - android/**
+    - ios/**
+    - web/**
+    - windows/**
+    - macos/**
+    - linux/**
 
 # Uncomment the following section to specify additional rules.
 

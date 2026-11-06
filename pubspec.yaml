@@ -1,13 +1,13 @@
-name: dart_training
-description: A sample command-line application.
-version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+name: dart_lab
+description: Um repositório de resoluções de algoritmos em Dart.
+version: 26.11.2
+repository: https://github.com/Kainato/dart_lab
 
 environment:
   sdk: ^3.6.0
 
 # Add regular dependencies here.
-dependencies:
+dependencies: {}
   # path: ^1.8.0
 
 dev_dependencies:
