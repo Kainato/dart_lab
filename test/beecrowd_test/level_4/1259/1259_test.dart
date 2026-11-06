@@ -1,4 +1,4 @@
-import 'package:dart_training/beecrowd/level_4/1259/1259.dart';
+import 'package:dart_lab/beecrowd/level_4/1259/1259.dart';
 import 'package:test/test.dart';
 
 void main() {
