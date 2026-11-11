@@ -40,7 +40,7 @@ B. **[Condição B]:** [Resultado ou comportamento esperado]
 
 [Inserir aqui o exemplo de entrada dado pelo problema]
 
-#### Saída Esperada:
+#### Saída Esperada
 
 [Inserir aqui o exemplo de saída esperada dado pelo problema]
 
