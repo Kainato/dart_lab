@@ -36,7 +36,7 @@ B. **[Condição B]:** [Resultado ou comportamento esperado]
 
 ### 🧪 Exemplo de Teste
 
-#### Entrada:
+#### Entrada
 
 [Inserir aqui o exemplo de entrada dado pelo problema]
 
