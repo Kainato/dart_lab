@@ -1,6 +1,6 @@
 ---
 name: Algoritmo Beecrowd
-about: Documentar um novo problema de algoritmo para resolver
+about: Documentar um novo problema de algoritmo do site Beecrowd para resolver
 title: "[ALGORITMO]"
 labels: algorithm, beecrowd
 assignees: ""
