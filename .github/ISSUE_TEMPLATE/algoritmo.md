@@ -46,6 +46,9 @@ B. **[Condição B]:** [Resultado ou comportamento esperado]
 
 ## ✅ Critérios de Aceite
 
-- O algoritmo deve localizar na pasta
+- O algoritmo deve localizar na pasta "beecrowd/level_[dificuldade definida pelo site]"
+  - A resolução deve ser uma pasta contendo:
+    - Algoritmo em dart com a resolução do problema
+    - Arquivo .md com a descrição do problema e a explicação de como o problema foi pensado em resolver
 - O algoritmo deve processar [descrever comportamento global de entrada]
 - [Condição de validação técnica essencial "n"]
