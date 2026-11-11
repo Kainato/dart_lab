@@ -1,7 +1,7 @@
 ---
 name: Novo Algoritmo
 about: Documentar um novo problema de algoritmo para resolver
-title: "[ALGORITMO] "
+title: "[ALGORITMO]"
 labels: algorithm, beecrowd
 assignees: ""
 ---
