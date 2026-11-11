@@ -1,5 +1,5 @@
 ---
-name: Novo Algoritmo
+name: Algoritmo Beecrowd
 about: Documentar um novo problema de algoritmo para resolver
 title: "[ALGORITMO]"
 labels: algorithm, beecrowd
@@ -46,5 +46,6 @@ B. **[Condição B]:** [Resultado ou comportamento esperado]
 
 ## ✅ Critérios de Aceite
 
+- O algoritmo deve localizar na pasta
 - O algoritmo deve processar [descrever comportamento global de entrada]
 - [Condição de validação técnica essencial "n"]
