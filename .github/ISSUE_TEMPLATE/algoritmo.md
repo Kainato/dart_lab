@@ -6,7 +6,7 @@ labels: algorithm, beecrowd
 assignees: ""
 ---
 
-## [TÍTULO RESUMIDO DO PROBLEMA]
+## [CÓDIGO DO PROBLEMA] - [TÍTULO DO PROBLEMA]
 
 ### 📌 Descrição
 
